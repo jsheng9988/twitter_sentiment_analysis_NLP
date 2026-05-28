@@ -8,5 +8,5 @@ Methods used and learned:
 - NLTK library
 - Numpy, pandas, seaborn, matplotlib
 - Features: Bag-of-words, TF-IDF
-- Modelling: LOgistic regression, SVM, Random FOrest Classification, XGboost classification 
+- Modelling: Logistic regression, SVM, Random Forest classification, XGboost classification 
 
